@@ -1,0 +1,111 @@
+﻿Category,Label,Year,Diagnoses
+Total,Total,2022,31
+Total,Total,2021,31
+Total,Total,2020,22
+Total,Total,2019,11
+Total,Total,2018,7
+Birth Sex,Unknown,2022,0
+Birth Sex,Male,2022,19
+Birth Sex,Female,2022,12
+Birth Sex,Unknown,2021,0
+Birth Sex,Male,2021,16
+Birth Sex,Female,2021,15
+Birth Sex,Unknown,2020,0
+Birth Sex,Male,2020,12
+Birth Sex,Female,2020,10
+Birth Sex,Unknown,2019,0
+Birth Sex,Male,2019,8
+Birth Sex,Female,2019,3
+Birth Sex,Unknown,2018,0
+Birth Sex,Male,2018,4
+Birth Sex,Female,2018,3
+Age,Unknown,2022,0
+Age,65+,2022,0
+Age,55-64,2022,0
+Age,45-54,2022,0
+Age,40-44,2022,0
+Age,35-39,2022,0
+Age,30-34,2022,0
+Age,25-29,2022,0
+Age,20-24,2022,0
+Age,15-19,2022,0
+Age,10-14,2022,0
+Age,<10,2022,31
+Age,Unknown,2021,0
+Age,65+,2021,0
+Age,55-64,2021,0
+Age,45-54,2021,0
+Age,40-44,2021,0
+Age,35-39,2021,0
+Age,30-34,2021,0
+Age,25-29,2021,0
+Age,20-24,2021,0
+Age,15-19,2021,0
+Age,10-14,2021,0
+Age,<10,2021,31
+Age,Unknown,2020,0
+Age,65+,2020,0
+Age,55-64,2020,0
+Age,45-54,2020,0
+Age,40-44,2020,0
+Age,35-39,2020,0
+Age,30-34,2020,0
+Age,25-29,2020,0
+Age,20-24,2020,0
+Age,15-19,2020,0
+Age,10-14,2020,0
+Age,<10,2020,22
+Age,Unknown,2019,0
+Age,65+,2019,0
+Age,55-64,2019,0
+Age,45-54,2019,0
+Age,40-44,2019,0
+Age,35-39,2019,0
+Age,30-34,2019,0
+Age,25-29,2019,0
+Age,20-24,2019,0
+Age,15-19,2019,0
+Age,10-14,2019,0
+Age,<10,2019,11
+Age,Unknown,2018,0
+Age,65+,2018,0
+Age,55-64,2018,0
+Age,45-54,2018,0
+Age,40-44,2018,0
+Age,35-39,2018,0
+Age,30-34,2018,0
+Age,25-29,2018,0
+Age,20-24,2018,0
+Age,15-19,2018,0
+Age,10-14,2018,0
+Age,<10,2018,7
+Race/Ethnicity,Other/Unknown,2022,0
+Race/Ethnicity,"NH, White",2022,9
+Race/Ethnicity,"NH, Indigenous/Native American",2022,1
+Race/Ethnicity,"NH, Black/African American",2022,3
+Race/Ethnicity,"NH, Asian/Pacific Islander",2022,0
+Race/Ethnicity,"Hispanic/Latinx, all races",2022,18
+Race/Ethnicity,Other/Unknown,2021,1
+Race/Ethnicity,"NH, White",2021,9
+Race/Ethnicity,"NH, Indigenous/Native American",2021,2
+Race/Ethnicity,"NH, Black/African American",2021,3
+Race/Ethnicity,"NH, Asian/Pacific Islander",2021,0
+Race/Ethnicity,"Hispanic/Latinx, all races",2021,16
+Race/Ethnicity,Other/Unknown,2020,1
+Race/Ethnicity,"NH, White",2020,9
+Race/Ethnicity,"NH, Indigenous/Native American",2020,0
+Race/Ethnicity,"NH, Black/African American",2020,1
+Race/Ethnicity,"NH, Asian/Pacific Islander",2020,0
+Race/Ethnicity,"Hispanic/Latinx, all races",2020,11
+Race/Ethnicity,Other/Unknown,2019,3
+Race/Ethnicity,"NH, White",2019,1
+Race/Ethnicity,"NH, Indigenous/Native American",2019,0
+Race/Ethnicity,"NH, Black/African American",2019,3
+Race/Ethnicity,"NH, Asian/Pacific Islander",2019,0
+Race/Ethnicity,"Hispanic/Latinx, all races",2019,4
+Race/Ethnicity,Other/Unknown,2018,0
+Race/Ethnicity,"NH, White",2018,6
+Race/Ethnicity,"NH, Indigenous/Native American",2018,0
+Race/Ethnicity,"NH, Black/African American",2018,0
+Race/Ethnicity,"NH, Asian/Pacific Islander",2018,0
+Race/Ethnicity,"Hispanic/Latinx, all races",2018,1

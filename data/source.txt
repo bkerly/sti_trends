@@ -1,0 +1,4 @@
+All data sourced from publicly available STI Trend Tables found here
+<https://cdphe.colorado.gov/sti-hiv-vh/data-reporting>
+
+Data extracted 10/6/2023
