@@ -18,10 +18,10 @@ gonorrhea <- read_csv("data/gonorrhea.csv")%>%
 
 # Smush
 
-all_sti <- all_syphilis %>%
-  left_join(chlamydia,by="Year") %>%
-  left_join(gonorrhea,by="Year")
+all_sti_annual <- all_syphilis %>%
+  bind_rows(chlamydia) %>%
+  bind_rows(gonorrhea)
 
 # write
 
-write_csv(all_sti,file = "data/all_sti.csv")
+write_csv(all_sti_annual,file = "data/all_sti_annual.csv")
